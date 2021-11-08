@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Dimas Panuji Wicaksono, [Dimas Wicaksono](https://dimspawn.github.io).
+* Dimas Wicaksono, [dimspawn](https://dimspawn.github.io).
